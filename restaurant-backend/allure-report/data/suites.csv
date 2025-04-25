@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4","🧪 Allure integration works!","","Wed Apr 23 12:52:52 IST 2025","passed","Wed Apr 23 12:52:52 IST 2025","","basic.test.ts","",""
+"","6","Should add 3 tables for a valid restaurant","","Wed Apr 23 12:52:52 IST 2025","passed","Wed Apr 23 12:52:52 IST 2025","","TableService Unit Tests","",""
+"","1","Should delete a table successfully","","Wed Apr 23 12:52:52 IST 2025","passed","Wed Apr 23 12:52:52 IST 2025","","TableService Unit Tests","",""
+"","0","Should return table data for a restaurant","","Wed Apr 23 12:52:52 IST 2025","passed","Wed Apr 23 12:52:52 IST 2025","","TableService Unit Tests","",""
+"","1","Should return false when deleting invalid table ID","","Wed Apr 23 12:52:52 IST 2025","passed","Wed Apr 23 12:52:52 IST 2025","","TableService Unit Tests","",""
+"","4","Should throw error for invalid restaurant ID","","Wed Apr 23 12:52:52 IST 2025","passed","Wed Apr 23 12:52:52 IST 2025","","TableService Unit Tests","",""
